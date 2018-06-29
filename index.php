@@ -30,7 +30,7 @@
 
 </style>
 <body>
-	<div class="a">
+	<div class="a b">
 		<ul>
 			<li>
 				<a href="index.php">Beranda</a>
